@@ -3,7 +3,7 @@
 A professional **Face Emotion Detection** web application built using **TensorFlow (CNN)** and **Streamlit**, capable of detecting human emotions from facial expressions in images.
 
 🔗 **Live Demo:**  
-https://face-emotion-detection-the-tejasbhau.streamlit.app/
+https://face-emotion-detection-using-machine-learning-krushna.streamlit.app/
 
 ---
 
@@ -69,7 +69,7 @@ streamlit run app.py
 
 The application is deployed on **Streamlit Cloud** and can be accessed publicly using the link below:
 
-👉 [https://face-emotion-detection-the-tejasbhau.streamlit.app/](https://face-emotion-detection-the-tejasbhau.streamlit.app/)
+👉(https://face-emotion-detection-using-machine-learning-krushna.streamlit.app/)
 
 ---
 
@@ -97,11 +97,9 @@ face-emotion-detection/
 
 ## 👨‍💻 Developer Information
 
-**Developed by:** Tejas Gholap
+**Developed by:** Krushna Shinde
 
-🔗 LinkedIn: [https://www.linkedin.com/in/tejas-gholap](https://www.linkedin.com/in/tejas-gholap)
-
-💻 GitHub: [https://github.com/tejasgholap45](https://github.com/tejasgholap45)
+💻 GitHub: [https://github.com/krushna8767](https://github.com/krushna8767)
 
 **Guided By:** Pratik Ramteke Sir
 
